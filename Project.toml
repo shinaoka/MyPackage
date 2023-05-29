@@ -1,0 +1,11 @@
+name = "MyPackage"
+uuid = "eb66ca03-d5f6-4852-a7de-5dc300cf5d77"
+authors = ["Hiroshi Shinaoka <h.shinaoka@gmail.com>"]
+version = "0.1.0"
+
+#[extras]
+#Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+#QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+#
+#[targets]
+#test = ["Test", "QuadGK"]
